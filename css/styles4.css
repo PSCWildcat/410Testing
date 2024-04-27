@@ -27,6 +27,12 @@ body {
     background-color: white;
 }
 
+th, td {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 40px;
+}
 
 header {
     width: 910px;	/* reduced by 20px to accommodate shadow */

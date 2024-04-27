@@ -18,13 +18,14 @@
 body {
     font-size: 1.1em;
     font-family: Arial, Helvetica, sans-serif;
-	background-color: white;
+	background-image: url("LigansonBackground.png");
 }
 
 #container {
     width: 930px;
     border-width: 1px;
     margin: 0 auto;
+	background-color: white;
 }
 
 
